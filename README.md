@@ -12,5 +12,7 @@ Input:
 Output
    simple interest = p*t*r
 ```
+# Simple Interest Calculator Project
+This project is an assignment for the Introduction to Git and GitHub course. It contains a bash script to calculate simple interest.
 
 _© 2022 XYZ, Inc._
